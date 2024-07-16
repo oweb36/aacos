@@ -1,0 +1,6 @@
+RXe, a contestant. She is pronounced as Ar-see.  
+
+She is a Daikin FTXR50EV1B9, an Ururu-Sarara unit. She is a female. Born in 2007.
+
+
+RXe is a force to be reckoned with in AACOS. With reckless confidence as her trademark, RXe fearlessly charges into each challenge, unapologetically pushing the boundaries and taking risks that leave her competitors in awe. Her boldness is matched only by her charming charisma, drawing others to her with magnetic appeal and establishing her as a natural leader among the contestants. However, beneath her fearless exterior lies a complex duality: a streak of pure evilness intertwined with moments of pure niceness. RXe's manipulative tendencies and willingness to exploit others for her own gain may unsettle her fellow competitors, yet she also surprises them with unexpected acts of kindness and compassion, revealing a depth to her character that defies easy categorization. In the arena of AACOS, RXe's presence injects a volatile energy, promising both excitement and unpredictability as she navigates the challenges with her own unique brand of neevil.

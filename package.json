@@ -1,0 +1,15 @@
+{
+  "name": "aacos",
+  "version": "1.0.0",
+  "description": "AACOS Air Conditioner Object Show Wiki",
+  "scripts": {
+      "start": "tiddlywiki . --listen",
+      "compile": "cat tiddlers/*.md > compile.txt"
+  },
+  "author": "MXPSQL Server 20953 Onetechguy",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tiddlywiki": "^5.3.3"
+  }
+}
